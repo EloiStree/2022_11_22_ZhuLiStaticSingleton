@@ -1,6 +1,6 @@
 
-Godot: https://github.com/EloiStree/2022_11_22_gdp_zhu_li_static_singleton   
-Unity: https://github.com/EloiStree/2022_11_22_upm_zhu_li_static_singleton  
+Godot: https://github.com/EloiStree/2022_11_22_gdp_zhu_li_static_singleton     
+Unity: https://github.com/EloiStree/2022_11_22_upm_zhu_li_static_singleton    
 
 # Zhu Li Static Singleton
 
