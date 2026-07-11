@@ -1,3 +1,6 @@
+
+Godot: https://github.com/EloiStree/2022_11_22_gdp_zhu_li_static_singleton
+
 #  Zhu Li Static Singleton  
 
 Just send struct that inherit of IZhuLiCommand to ZhuLi and don't care of the rest for now.    
